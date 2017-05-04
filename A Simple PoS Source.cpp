@@ -1,4 +1,4 @@
-/* Purpose is to allow the user to input how many of the two items given they want to buy and perform a
+/* Purpose is to allow the user to input how many of the four items given they want to buy and perform a
    calculation that will output with the look of a receipt and give them their total with tax */
 
 #include <iostream>
