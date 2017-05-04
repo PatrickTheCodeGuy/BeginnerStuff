@@ -34,6 +34,12 @@ int main()
     cokePrice = 1.99;              // Item 2 price
     grapePrice = 3.99;             // Item 3 price
     gbeefPrice = 12.99;            // Item 4 price
+   
+   
+   item1Count = 0;         // Needed to prevent a bug if no amount is entered
+   item2Count =0;          // Needed to prevent a bug if no amount is entered
+   item3Count = 0;         // Needed to prevent a bug if no amount is entered
+   item4Count = 0;         // Needed to prevent a bug if no amount is entered
 
 
     cout << "=========================\n";
